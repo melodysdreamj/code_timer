@@ -10,7 +10,7 @@
 
 ## example2
 ```dart
-  CodeTimer.start();
+CodeTimer.start();
 
 // add your code here
 await Future.delayed(const Duration(seconds: 1));
