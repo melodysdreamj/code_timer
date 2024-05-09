@@ -1,4 +1,9 @@
-## example
+## installation
+```bash
+dart pub add code_timer
+```
+
+## usage
 ```dart
   CodeTimer.start();
 
@@ -12,7 +17,7 @@ you will see console like this
 Execution time: 1004 ms
 ```
 
-## example2
+## usage2
 ```dart
 CodeTimer.start();
 

@@ -1,6 +1,6 @@
 name: code_timer
 description: "Code Execution Timer for Dart and Flutter"
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/melodysdreamj/code_timer
 
 environment:
